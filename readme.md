@@ -9,5 +9,8 @@ While the keg inventory system focuses on one aspect of the brewery, the databas
 ## Development Infrastructure
 We utilized a LAMP server stack via Amazon Web Services for our development infrastructure. The project follows MVC design pattern and is based on the Laravel framework. It also uses Web 2.0 techniques like AJAX and JavaScript frameworks like JQuery to provide CRUD functionality and user management.
 
+## Technologies Used
+Laravel, PHP, MySQL, JavaScript, jQuery, AJAX, HTML5, CSS3
+
 ## Official Documentation
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
